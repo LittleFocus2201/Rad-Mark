@@ -1,2 +1,2 @@
 # Rad-Mark
-This repository is the official implementation of Expert Systems with Applications 2024 paper, titled Rad-Mark: Zero-Watermarking Security and Robustness via Adversarial Feature Optimization.
+This repository is the official implementation of Information Sciences 2024 paper, titled Enhancing Security and Robustness for Image Zero-watermarking via Adversarial Sample Optimization.
