@@ -1,2 +1,2 @@
 # Rad-Mark
-This repository is the official implementation of Information Sciences 2024 paper, titled Enhancing Security and Robustness for Image Zero-watermarking via Adversarial Sample Optimization.
+This repository is the official implementation of Neurocomputing 2024 paper, titled Rad-Mark: Reliable Adversarial Zero-Watermarking.
